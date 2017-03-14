@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SCPeriodicScrollView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A fast, lightweight carousel figure."
 
   # This description is used to generate tags and improve search results.
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/tsc000/SCPeriodicScrollView.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/tsc000/SCPeriodicScrollView.git", :tag => "{s.version}" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
